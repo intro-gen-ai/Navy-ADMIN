@@ -2,10 +2,7 @@
 The Naval Administrative Assistant Tool harnesses the capabilities of ChatGPT to streamline and assist U.S. Navy officers with critical administrative tasks, such as FITREPs and NAM award write-ups. By integrating AI technology, the tool aims to reduce manual workload, enhance documentation accuracy, and promote operational efficiency within the Navy's administrative processes.
 
 ## Usage of AI Assistant
-### Link to Video Explanation: <insert hyperlink here>
-To create a video explanation, you can either create a very short (3-5 minutes) video on Zoom or something similar to a TikTok video. Contents of this video are described in the following section. Note that in both of these cases, the links need to be accessible by us. For TikTok videos that aren't public, you can download them and upload them to a Box folder and share the link here.
-Please feel free to be creative with this! As long as your explanation meets all of the requirements, you can be as creative as you like.
-The production quality of the video will not be explicitly graded, although it should be presentable and understandable. Any lack of production quality should not detract from the explanation of the project; in this case, points may be deducted.
+### Link to Video Explanation: <https://drive.google.com/file/d/1-U8uquB4ml54ejcmPNL7r-pm5qoGPvEQ/view?usp=sharing>
 
 ### Link to AI Assistant: <https://chat.openai.com/g/g-rZNyUZ8Zn-navy-administrative-assistant-tool>
 
@@ -18,7 +15,7 @@ The production quality of the video will not be explicitly graded, although it s
 
 #### Example FITREP Inputs:
 Previous FITREP: \
-*** MY #1 OF 14 URL LTJGS ONOARD! - SCREENED FOR DEPARTMENT HEAD FIRST LOOK!* * * \
+*** MY #1 OF 14 URL LTJGS ONOARD! - SCREENED FOR DEPARTMENT HEAD FIRST LOOK!* * * 
 
 - COMMAND-WIDE IMPACT. As the READ-E6 Coordinator for four functional areas, he tirelessly worked across departmental lines to execute a rigorous SOE. As Safety Observer, he oversaw two ammo movements and two ammo onloads enabling SHOUP to fire 11 missiles, 6 torpedoes and 491 rounds of 5-inch during a highly complex and successful CSSOT.
 - VERSITILE LEADER AND TEAM PLAYER. As Anti-Terrorism Officer, coordinated the FP requirements for San Francisco Fleet Week. Liaised with four federal agencies and three ships to facilitate public tours for 8,000 civilians. His efforts were personally applauded by CDRE Kim at PHIBRON THREE and RDML Baze at ESG THREE!
@@ -26,7 +23,7 @@ Previous FITREP: \
 Played an integral role during
 certifying events for BMD, ASW, SUw, Aaw through standing 368 hours of underway watch and 70 hours of inport scenarios. My personal choice to develop and train future SUWCs
 
-*** GAVIN ANTICIPATES, COMMUNICATES, AND EXECUTES LIKE NO DIVO I'VE EVER SEEN!***
+*** GAVIN ANTICIPATES, COMMUNICATES, AND EXECUTES LIKE NO DIVO I'VE EVER SEEN!*** \
 *** EFFORTLESSLY OPERATES AT THE DEPARTMENT HEAD LEVEL! HE WILL THRIVE ANYWHERE!* * *
 
 New FITREP Information:
@@ -104,21 +101,15 @@ F - NAAT produced a solution that is defunct and insufficient compared to a manu
 Ultimately, I decided to move away from this goal with the introduction of Custom GPT's launching in early November. The progress I made in terms of prompt engineering was still productive, however. Working on fine-tuning the prompts early in this project instilled a strong foundation for the eventual testing of my custom GPT later on. My discoveries in the early phases of prompt engineering allowed for more targeted testing of the custom GPT.
 
 #### Goal 2: Continuous user testing and feedback collection
-This goal was met. After fine-tuning the custom Navy Administrative Assistant Tool GPT, I was able to routinely receive feedback from my class advisor in Naval ROTC, who is a nuclear qualified naval officer with almost 9 years of experience in the United States Navy. Additionally, I met with a former naval officer attending the Owen School of Management to receive feedback on the tool. Both of these men directly worked with NAM write-ups and FITREP comments routinely throughout their careers. They were able to provide real-world example prompts for me the test the GPT. Additionally, they both offered specific areas for improvement to make my solution more practical.
+This goal was met. After fine-tuning the custom Navy Administrative Assistant Tool GPT, I was able to routinely receive feedback from my class advisor in Naval ROTC, who is a nuclear qualified naval officer with almost 9 years of experience in the United States Navy. Additionally, I met with a former naval officer attending the Owen School of Management to receive feedback on the tool. Both of these men directly worked with NAM write-ups and FITREP comments routinely throughout their careers. They were able to provide real-world example prompts for me to test the GPT. Additionally, they both offered specific areas for improvement to make my solution more practical.
 
 #### Goal 3/Metric 1: Reduction in administrative time
 Goal 3 and metric 1 both involve the central function of NAAT -- to reduce the amount of time naval officers spend on administrative tasks. With testing performed by two officers, the feedback I received indicated this goal was met. "This reduces a 20 minute process into a 5 minutes process" was the most poignant example of feedback I received, indicating that NAAT effectively reduces time on NAM write-ups and FITREPs.
-
-Address each of the goals, and assess each of the metrics. Include a statement on each on what you achieved or did not achieve, give support for your assessments.
 
 #### Metric 4: Manual vs. NAAT Documentation Reliability
 Even with weeks of continued testing and fine-tuning, the generated outputs of NAM write-ups and FITREP comments cannot be used without human interaction. This is mainly due to the limitations of ChatGPT, which will be discussed in further depth in the "Reflection on Learning" section below. The feedback I received on this tool is consistent -- NAAT is an effective middle-man for generating these documents, but human editing and revision is required before finalizing these write-ups. This was a result I anticipated at the beginning of this project.
 
 ## Reflection on Learning
-500-1000 words
-With this project being the culminating project of the semester, my generative artificial intelligence knowledge base has expanded vastly. One of the primary takeaways I've had throughout this process was the importance of prompt engineering. 
-
-### Limitations
 Originally, I envisioned the final product of the NAAT to focus on comprehensive prompt documentation for naval officers utilizing GPT 3.5/4 for FITREP and award write-up drafting. However, the project evolved with OpenAI's launch of Custom GPTs, offering a unique opportunity to explore the potential of this new technology.
 
 Prior to this project, my understanding of AI, particularly generative AI, was limited. I had seen and experimented with ChatGPT prior, but in a limited capacity. At the time, perceived ChatGPT as a near-comprehensive solution, capable of significantly reducing human input after a single, well-crafted prompt. This project, however, was a practical foray into the realm of AI, challenging my preconceptions and broadening my understanding of its capabilities and limitations.
