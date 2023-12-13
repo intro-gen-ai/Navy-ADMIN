@@ -1,5 +1,5 @@
 # Navy Administrative Automation Tool (NAAT)
-The Naval Administrative Assistant Tool harnesses the capabilities of ChatGPT to streamline and assist U.S. Navy officers with critical administrative tasks, such as FITREPs, award write-ups, and letters of instruction (LOIs). By integrating AI technology, the tool aims to reduce manual workload, enhance documentation accuracy, and promote operational efficiency within the Navy's administrative processes.
+The Naval Administrative Assistant Tool harnesses the capabilities of ChatGPT to streamline and assist U.S. Navy officers with critical administrative tasks, such as FITREPs and NAM award write-ups. By integrating AI technology, the tool aims to reduce manual workload, enhance documentation accuracy, and promote operational efficiency within the Navy's administrative processes.
 
 ## Usage of AI Assistant
 ### Link to Video Explanation: <insert hyperlink here>
